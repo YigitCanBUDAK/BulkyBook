@@ -5,5 +5,11 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+	<ImportGroup>
 
+	</ImportGroup>
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="6.0.9" />
+	</ItemGroup>
+	
 </Project>
